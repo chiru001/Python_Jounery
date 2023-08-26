@@ -1,19 +1,19 @@
-1. Computer don't understand English or any other human language,
-   so what language do computers speak?
+1. Computers don't understand English or any other human language,
+   So what language do computers speak?
 
 2. Computers will speak in one and zeros.
 
-3. Writing ones and zeros would be gibberish for us.Its hard for us to communicate liek that, right?
+3. Writing ones and zeros would be gibberish for us. It's hard for us to communicate like that, right?
 
-4. So humans have developed programming language that are in between human langage and machine language.
+4. So humans have developed programming languages that are in between human language and machine language.
 
-5. We need a programming that is their closer to machine language and other programming language are higher level than others. That is their closer to english or a human language.
+5. We need programming that is closer to machine language and other programming languages are higher level than others. That is their closer to English or a human language.
 
-6. Here, we have programming language that we usually write on a file such as python, javascript, Now we need somehow need to change to ones & zeros so that machines can understand
+6. Here, we have a programming language that we usually write on a file such as Python, javascript, we need somehow to change to ones & zeros so that machines can understand
 
 7. Well, we need a translator, Right?
 
-8. So we have translator it is a another programm which written by an human.
+8. So we have a translator which is another program written by a human.
 
 9. It can either be an interpreter or a compiler.
 
@@ -21,23 +21,23 @@
 
 11. An interpreter, just like a translator, goes line by line through our code and executes our code.
 
-12. Compiler are bit different, They take code all at once, reads the entire file all at once, and then translator that to machines.
+12. Compiler are a bit different, They take code all at once, reads the entire file all at once, and then translate that to machines.
 
 13. hello.py(hello) ---->>>> interpreter(translator)>>> 10110111010
 
 - Python2 vs python3 ???
 
-1. Python was created in 1991 by Guido van Rossum, and it was actually created with the name from Monty Python, which was a British company group.
+1. Python was created in 1991 by Guido van Rossum, and it was actually created with the name Monty Python, which was a British company group.
 
-2. Everything needs to have upgrade and in 2008, Guido decided that, well, Python version two, which has been used for a very long time, has soem things that he and the community wanted to change.
+2. Everything needs to be upgraded and in 2008, Guido decided that, well, Python version two, which has been used for a very long time, has some things that he and the community wanted to change.
 
 3. So in 2008, they decided to create Python3, a new version of the language.
 
-4. If we upgrade our phones we know that all the existing features needs to works after upgrade. but with Python3 upgrade some of the features that Python2 had they didn't like or they wanted to change completely.
+4. If we upgrade our phones we know that all the existing features need to work after upgrade. but with Python3 upgrade some of the features that Python2 had they didn't like or they wanted to change completely.
 
-5. So python3 introduced to what we call breaking changes. That is if you update it to python3 rember that python interpreter, the C python translator, well as soon as you update that your python2 code wasn't really going to work.
+5. So python3 introduced to what we call breaking changes. That is if you update it to python3 remember that python interpreter, the C python translator, well as soon as you update that your python2 code isn't really going to work.
 
-6. Its lie updating your phone and then all of sudden, all your apps sop working.
+6. It's like updating your phone and then all of a sudden, all your apps stop working.
 
 7. That's pretty much what happened in 2008.
 
