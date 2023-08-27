@@ -43,7 +43,7 @@ print(basket_one) #! [2, 3, 100, 5]
 basket_one.clear()
 print(basket_one) #! []
 
-#!* NOTE: POP USING INDEX VALUE , WHERE AS REMOVE USING ACTUAL NUMBER
+#!* NOTE: POP USING INDEX VALUE , WHERE AS REMOVE USING ACTUAL NUMBERs
 
 
 
